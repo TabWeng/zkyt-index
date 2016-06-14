@@ -7,7 +7,7 @@
 #####本实现已经发布到github博客上，点击链接查看实现效果：[https://tabweng.github.io/zkyt-index/index.html](https://tabweng.github.io/zkyt-index/index.html)
 #####使用技术：
 ######Bootstrap
-![Alt text](/path/to/img.jpg)
+![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLJHOOqSYXHkPSSBPb_vHc78T44LcRCO9wfcBXZ_Bdji6pqHTm)
 
 
 
